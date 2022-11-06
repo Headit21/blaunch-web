@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "https://headit.me/static/css/main.cf44f047.css",
-    "main.js": "https://headit.me/static/js/main.7f924abb.js",
+    "main.css": "https://headit.me/static/css/main.eaea0f96.css",
+    "main.js": "https://headit.me/static/js/main.230f7b32.js",
     "static/media/SB어그로L.ttf": "https://headit.me/static/media/SB어그로L.d52f7dfb589c2ed5daab.ttf",
     "static/media/SB어그로B.ttf": "https://headit.me/static/media/SB어그로B.2bd2f65ded5ef6e562d3.ttf",
     "static/media/SB어그로M.ttf": "https://headit.me/static/media/SB어그로M.ba7f85d311382e806808.ttf",
@@ -18,9 +18,9 @@
     "static/media/img_playstore_sticky.svg": "https://headit.me/static/media/img_playstore_sticky.01bc2f34d44b0c8e95034181e98b0a66.svg",
     "static/media/img_playstore2.svg": "https://headit.me/static/media/img_playstore2.bd9f666e9f806092bebbfc3725d22cad.svg",
     "static/media/img_service2.png": "https://headit.me/static/media/img_service2.25024a770d2e4282b240.png",
-    "static/media/saleListFooter_img.svg": "https://headit.me/static/media/saleListFooter_img.6861cfc640d45aaaff42f3a4810c10a8.svg",
     "static/media/img_service1.png": "https://headit.me/static/media/img_service1.a06b8bf20fc081605f97.png",
     "static/media/img_playstoreQR.svg": "https://headit.me/static/media/img_playstoreQR.e44aae26ded9d9d91dcb94ff55c92ef2.svg",
+    "static/media/saleListFooter_img_inner.svg": "https://headit.me/static/media/saleListFooter_img_inner.5ea8f9bbd43edc28f10ca90f0af70869.svg",
     "static/media/for_Start_saleForm.svg": "https://headit.me/static/media/for_Start_saleForm.1f69ec70874714367153b015faa330bb.svg",
     "static/media/img_service3.png": "https://headit.me/static/media/img_service3.d7a2d71697362468057e.png",
     "static/media/SaleListLower_img.svg": "https://headit.me/static/media/SaleListLower_img.9aa05aea47c13e4f7fd3e7d8853db6ee.svg",
@@ -87,7 +87,7 @@
     "static/media/Ellipse16.svg": "https://headit.me/static/media/Ellipse16.88751f225425146cc162f4521ebd4ceb.svg"
   },
   "entrypoints": [
-    "static/css/main.cf44f047.css",
-    "static/js/main.7f924abb.js"
+    "static/css/main.eaea0f96.css",
+    "static/js/main.230f7b32.js"
   ]
 }
