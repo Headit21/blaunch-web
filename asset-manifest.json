@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "https://headit.me/static/css/main.e6f00261.css",
+    "main.css": "https://headit.me/static/css/main.4740b554.css",
     "main.js": "https://headit.me/static/js/main.8e8776f3.js",
     "static/media/SB어그로L.ttf": "https://headit.me/static/media/SB어그로L.d52f7dfb589c2ed5daab.ttf",
     "static/media/SB어그로B.ttf": "https://headit.me/static/media/SB어그로B.2bd2f65ded5ef6e562d3.ttf",
@@ -87,7 +87,7 @@
     "static/media/Ellipse16.svg": "https://headit.me/static/media/Ellipse16.88751f225425146cc162f4521ebd4ceb.svg"
   },
   "entrypoints": [
-    "static/css/main.e6f00261.css",
+    "static/css/main.4740b554.css",
     "static/js/main.8e8776f3.js"
   ]
 }
