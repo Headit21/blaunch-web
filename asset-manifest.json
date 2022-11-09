@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://headit.me/static/css/main.22dfb9bb.css",
-    "main.js": "https://headit.me/static/js/main.09d9935b.js",
+    "main.js": "https://headit.me/static/js/main.a6ce9256.js",
     "static/media/SB어그로L.ttf": "https://headit.me/static/media/SB어그로L.d52f7dfb589c2ed5daab.ttf",
     "static/media/SB어그로B.ttf": "https://headit.me/static/media/SB어그로B.2bd2f65ded5ef6e562d3.ttf",
     "static/media/SB어그로M.ttf": "https://headit.me/static/media/SB어그로M.ba7f85d311382e806808.ttf",
@@ -62,7 +62,6 @@
     "static/media/Location.svg": "https://headit.me/static/media/Location.d4dea25079984d8af21d6f2f3b148e85.svg",
     "static/media/error.svg": "https://headit.me/static/media/error.e30647618212b5109c0ac42f4e055740.svg",
     "static/media/platform_icon.svg": "https://headit.me/static/media/platform_icon.740cbc422b24b2469fc97949d651f903.svg",
-    "static/media/favicon.ico": "https://headit.me/static/media/favicon.21fbc0bc9c690a15621d.ico",
     "static/media/naver.svg": "https://headit.me/static/media/naver.286a18a315aea756992e355c4ee7f796.svg",
     "static/media/round_naver.svg": "https://headit.me/static/media/round_naver.69465fc100f954250cc78945839c25a2.svg",
     "static/media/round_kakao.svg": "https://headit.me/static/media/round_kakao.9722227b83f50345c640961bf90ce132.svg",
@@ -88,6 +87,6 @@
   },
   "entrypoints": [
     "static/css/main.22dfb9bb.css",
-    "static/js/main.09d9935b.js"
+    "static/js/main.a6ce9256.js"
   ]
 }
