@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://headit.me/static/css/main.22dfb9bb.css",
-    "main.js": "https://headit.me/static/js/main.9bf3eecc.js",
+    "main.js": "https://headit.me/static/js/main.db3ded2b.js",
     "static/media/SB어그로L.ttf": "https://headit.me/static/media/SB어그로L.d52f7dfb589c2ed5daab.ttf",
     "static/media/SB어그로B.ttf": "https://headit.me/static/media/SB어그로B.2bd2f65ded5ef6e562d3.ttf",
     "static/media/SB어그로M.ttf": "https://headit.me/static/media/SB어그로M.ba7f85d311382e806808.ttf",
@@ -53,9 +53,9 @@
     "static/media/godownload.svg": "https://headit.me/static/media/godownload.a0cc5da06270e44b84f16d9bab248c91.svg",
     "static/media/img_bi_header.svg": "https://headit.me/static/media/img_bi_header.8fba8fa90e6d48cfe2efe04860f81e5c.svg",
     "static/media/img_bi_footer.svg": "https://headit.me/static/media/img_bi_footer.1a301c33490b88d83bd0db9a0e8ae97b.svg",
+    "index.html": "https://headit.me/index.html",
     "static/media/outline_tag.svg": "https://headit.me/static/media/outline_tag.75549a81d72d2be0c8bdbb05e3664cb7.svg",
     "static/media/apple.svg": "https://headit.me/static/media/apple.94541b836dc507f1af5773bf4e21044a.svg",
-    "index.html": "https://headit.me/index.html",
     "static/media/backKey_img.svg": "https://headit.me/static/media/backKey_img.414b40d1716d74796064cf85f97a65e4.svg",
     "static/media/backKey_img_blue.svg": "https://headit.me/static/media/backKey_img_blue.6ac1d1c7a91f3ec8c15f58a4e8800092.svg",
     "static/media/outline_location.svg": "https://headit.me/static/media/outline_location.18c7a5f1496928cffb51de79cfb19092.svg",
@@ -87,6 +87,6 @@
   },
   "entrypoints": [
     "static/css/main.22dfb9bb.css",
-    "static/js/main.9bf3eecc.js"
+    "static/js/main.db3ded2b.js"
   ]
 }
