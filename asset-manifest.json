@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://headit.me/static/css/main.bc077288.css",
-    "main.js": "https://headit.me/static/js/main.631da57d.js",
+    "main.js": "https://headit.me/static/js/main.bd3e2942.js",
     "static/media/img_business.svg": "https://headit.me/static/media/img_business.58b518e4540b373340174e9ae438432c.svg",
     "static/media/img_service2.svg": "https://headit.me/static/media/img_service2.96bbdb32dae632c8db5ea3da5c6e0e9c.svg",
     "static/media/img_community.svg": "https://headit.me/static/media/img_community.48865b13ca556a2726ba52d8c37dad1d.svg",
@@ -76,6 +76,6 @@
   },
   "entrypoints": [
     "static/css/main.bc077288.css",
-    "static/js/main.631da57d.js"
+    "static/js/main.bd3e2942.js"
   ]
 }
