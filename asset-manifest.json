@@ -1,9 +1,11 @@
 {
   "files": {
-    "main.css": "https://headit.me/static/css/main.bc077288.css",
-    "main.js": "https://headit.me/static/js/main.6a3d1be9.js",
+    "main.css": "https://headit.me/static/css/main.5617354c.css",
+    "main.js": "https://headit.me/static/js/main.be4c74b3.js",
     "static/media/img_business.svg": "https://headit.me/static/media/img_business.58b518e4540b373340174e9ae438432c.svg",
     "static/media/img_service2.svg": "https://headit.me/static/media/img_service2.96bbdb32dae632c8db5ea3da5c6e0e9c.svg",
+    "static/media/img_business2.svg": "https://headit.me/static/media/img_business2.48056d823e1ae32a9fcc9f48d7158bc0.svg",
+    "static/media/img_business1.svg": "https://headit.me/static/media/img_business1.2581ee4bce6b0edc1ec0f21a2b8dc280.svg",
     "static/media/img_community.svg": "https://headit.me/static/media/img_community.48865b13ca556a2726ba52d8c37dad1d.svg",
     "static/media/img_community2.svg": "https://headit.me/static/media/img_community2.bbcb1ac3cc3106dc14c7a64eaa4655f1.svg",
     "static/media/img_main.svg": "https://headit.me/static/media/img_main.5c40b995f4a60c592b901f2b14df25a1.svg",
@@ -19,6 +21,7 @@
     "static/media/saleListFooter_img_inner.svg": "https://headit.me/static/media/saleListFooter_img_inner.5ea8f9bbd43edc28f10ca90f0af70869.svg",
     "static/media/for_Start_saleForm.svg": "https://headit.me/static/media/for_Start_saleForm.1f69ec70874714367153b015faa330bb.svg",
     "static/media/img_help.svg": "https://headit.me/static/media/img_help.9aa05aea47c13e4f7fd3e7d8853db6ee.svg",
+    "static/media/img_business3.svg": "https://headit.me/static/media/img_business3.1c62092e803b1c53b1474da34655fa33.svg",
     "static/media/category_program.svg": "https://headit.me/static/media/category_program.97f6bee20175dc3d5d1285a2caafa91f.svg",
     "static/media/noneimg_category3.svg": "https://headit.me/static/media/noneimg_category3.bfa55b6a0fa162ffd2c25992c61d65fb.svg",
     "static/media/ico_service3.svg": "https://headit.me/static/media/ico_service3.04ba259299681414339c2aa474a1880d.svg",
@@ -42,6 +45,7 @@
     "static/media/sellerSupport.svg": "https://headit.me/static/media/sellerSupport.0429e6850a4f4f53178d3a764eab3289.svg",
     "static/media/ico_service1.svg": "https://headit.me/static/media/ico_service1.be6fc2831dd15598d848040ce2ce8f2e.svg",
     "static/media/outline_work.svg": "https://headit.me/static/media/outline_work.f0210fe08d0fb874d696b553d242a853.svg",
+    "static/media/m_sellerSupport_img.svg": "https://headit.me/static/media/m_sellerSupport_img.4b6b7d22b406b961fe86af25689863cb.svg",
     "static/media/Category.svg": "https://headit.me/static/media/Category.0c129ebf88c18f9993d3305296341587.svg",
     "static/media/authMark.svg": "https://headit.me/static/media/authMark.e1523ca0aa762058f89728fe8a7857d8.svg",
     "static/media/godownload.svg": "https://headit.me/static/media/godownload.a0cc5da06270e44b84f16d9bab248c91.svg",
@@ -63,6 +67,7 @@
     "static/media/plus_gray.svg": "https://headit.me/static/media/plus_gray.9e99bba6ab334ac213916cb50095455a.svg",
     "static/media/noneprofile.svg": "https://headit.me/static/media/noneprofile.630c517090491f7ae9ae884070f4eb9f.svg",
     "static/media/nextOrpreviousPage_img3.svg": "https://headit.me/static/media/nextOrpreviousPage_img3.2a2532ea51bf37847e3aeb065140245f.svg",
+    "static/media/right_arrow_white.svg": "https://headit.me/static/media/right_arrow_white.fa9e60c4ad3259132c7aaa0776fbeef3.svg",
     "static/media/nextOrpreviousPage_img2.svg": "https://headit.me/static/media/nextOrpreviousPage_img2.1a87ee7152cd13e580200dc377a1f373.svg",
     "static/media/nextOrpreviousPage_img.svg": "https://headit.me/static/media/nextOrpreviousPage_img.27361de45208b34fa985950179a39ac4.svg",
     "static/media/back.svg": "https://headit.me/static/media/back.e41f5195deb2cf7bbe14ed42c3ef257e.svg",
@@ -75,7 +80,7 @@
     "static/media/Ellipse16.svg": "https://headit.me/static/media/Ellipse16.88751f225425146cc162f4521ebd4ceb.svg"
   },
   "entrypoints": [
-    "static/css/main.bc077288.css",
-    "static/js/main.6a3d1be9.js"
+    "static/css/main.5617354c.css",
+    "static/js/main.be4c74b3.js"
   ]
 }
