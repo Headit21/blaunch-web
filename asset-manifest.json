@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "https://headit.me/static/css/main.5617354c.css",
-    "main.js": "https://headit.me/static/js/main.800b98ed.js",
+    "main.css": "https://headit.me/static/css/main.f71316c9.css",
+    "main.js": "https://headit.me/static/js/main.a6142f86.js",
     "static/media/img_business.svg": "https://headit.me/static/media/img_business.58b518e4540b373340174e9ae438432c.svg",
     "static/media/img_service2.svg": "https://headit.me/static/media/img_service2.96bbdb32dae632c8db5ea3da5c6e0e9c.svg",
     "static/media/img_business2.svg": "https://headit.me/static/media/img_business2.48056d823e1ae32a9fcc9f48d7158bc0.svg",
@@ -80,7 +80,7 @@
     "static/media/Ellipse16.svg": "https://headit.me/static/media/Ellipse16.88751f225425146cc162f4521ebd4ceb.svg"
   },
   "entrypoints": [
-    "static/css/main.5617354c.css",
-    "static/js/main.800b98ed.js"
+    "static/css/main.f71316c9.css",
+    "static/js/main.a6142f86.js"
   ]
 }
